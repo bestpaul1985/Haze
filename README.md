@@ -9,7 +9,6 @@ Haze霾 encourages people to rethink the air pollution crises through a visual p
 This project was made during School for [Poetic Computation](http://sfpc.io/), and presented in SFPC:[The First Class](http://sfpc.io/thefirstclass/) at [Eyebeam Art and Technology Center](http://www.eyebeam.org/events/school-for-poetic-computation-the-first-class)
 
 ##[Watch Video](http://vimeo.com/80093233)
-====
 
 
 ![](http://payload224.cargocollective.com/1/8/279961/6799728/vlcsnap-2013-11-21-22h53m25s91_905.png)
