@@ -14,7 +14,6 @@ This project was made during School for [Poetic Computation](http://sfpc.io/), a
 ![](http://payload224.cargocollective.com/1/8/279961/6799728/vlcsnap-2013-11-21-22h53m25s91_905.png)
 ![](http://payload224.cargocollective.com/1/8/279961/6799728/201312845450046_905.jpg)
 
-====
 ##Optical Dust Sensor
 
 ![](https://cdn.sparkfun.com//assets/parts/3/5/7/4/09689-01.jpg)
