@@ -25,11 +25,13 @@ The sensor has a very low current consumption (20mA max, 11mA typical), and can 
 [Optical Dust Sensor - GP2Y1010AU0F
 COM-09689](https://www.sparkfun.com/products/9689)
  
-##Adafruit Trinket - Mini Microcontroller - 3.3V Logic -
+##Adafruit Trinket - Mini Microcontroller - 3.3V Logic
 
 ![](http://www.adafruit.com/images/medium/1500top_MED.jpg)
 
 [Trinket](http://www.adafruit.com/products/1500) may be small, but do not be fooled by its size! It's a tiny microcontroller board, built around the Atmel ATtiny85, a little chip with a lot of power. We wanted to design a microcontroller board that was small enough to fit into any project, and low cost enough to use without hesitation. Perfect for when you don't want to give up your expensive dev-board and you aren't willing to take apart the project you worked so hard to design. It's our lowest-cost arduino-IDE programmable board! 
+
+I chose a 3.3v one, but you can try 5v as well.
 
 ##Adafruit NeoPixel Digital RGB LED Weatherproof Strip 60 LED -1m - WHITE
 ![](http://www.adafruit.com/images/medium/1138_MED.jpg)
