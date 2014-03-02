@@ -38,6 +38,6 @@ I chose a 3.3v one, but you can try 5v as well.
 
 [Adafruit NeoPixel Digital RGB LED Weatherproof Strip 60 LED -1m - WHITE](http://www.adafruit.com/products/1138#Description)
 
-##Cricus map
+##circuit map
 
 ![](https://dl.dropboxusercontent.com/u/68287781/sfe-protoboard-square-single-sided-1.jpg)
